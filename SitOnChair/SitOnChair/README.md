@@ -1,0 +1,2 @@
+# SitonChair
+siedze na krzesle
